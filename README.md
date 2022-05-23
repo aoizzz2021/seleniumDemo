@@ -1,0 +1,5 @@
+# seleniumDemo
+通过selenium批量访问图片解析的网址，并保存
+
+pyqt写页面，selenium自动化处理，pywin32实现右键另存等操作
+不过执行过程中鼠标不能乱动，否则容易识别不到正确的位置
